@@ -1,5 +1,5 @@
 ## Setup
-- View your site: https://username.github.io/simple-website-template
+- View your site: https://tecornell2.github.io/website
 
 ## How does this work?
 This website template uses CSS & JS to hide and show different parts of index.html and uses Github Pages to render the website from the gh-pages branch.
