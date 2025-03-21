@@ -78,7 +78,7 @@ q:after {
 
 blockquote {
   /*background-color: #F8F8F8;*/
-  border-left: 2px solid #AFC0D2;
+  border-left: 1px solid #030;
   margin: 1.4em 10%;
   padding: .75em 1em;
   font-size:1.25rem;
