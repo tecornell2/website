@@ -210,7 +210,7 @@ body {
 }
 
 header, #content, footer { 
-  background: rgba(0,0,0,.8);
+  background: rgba(0,0,0,.4);
   padding:25px;
   color:#0f110c; 
 }
@@ -230,7 +230,7 @@ ul.main-menu {
 }
 ul.main-menu li a {
   margin-right:20px;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   border-bottom: solid transparent 3px;
   color:#0f110c;
 }
