@@ -93,7 +93,7 @@ blockquote p:last-child {
  * Misc
  */
 hr.solid {
-  border-top: 1px solid #777;
+  border-top: 1px solid #030;
 }
 
 .label {
@@ -212,8 +212,7 @@ body {
 }
 
 header, #content, footer { 
-  background: #D9CFC1;
-  opacity: 0.5;
+  background: rgb(217, 207, 193, 0.4);
   padding:25px; 
 }
 
