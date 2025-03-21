@@ -176,16 +176,16 @@ div.desc {
  * Layout styles
  */
 
-/* Background color */
+/* Background color 
 
 html, #container, .inner { background-color:transparent;}
 
 html { background-color: #faf9f6;
 }
+*/
 
 /* Full size background image */
 
-/*
 html, #container, .inner { background-color:transparent;}
 html {
   background:url(frog2.jpg) center center no-repeat fixed;
@@ -203,7 +203,6 @@ header, #content, footer {
 iframe {
   max-width:100%;
 }
-*/
 
 /* Menu Links */
 ul.main-menu {
