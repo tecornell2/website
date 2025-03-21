@@ -203,7 +203,7 @@ div.desc {
   font-size: 12px;
 }
 
-.active, .collapsible:hover {
+.active-drop, .collapsible:hover {
   background-color: #555;
 }
 
