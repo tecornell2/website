@@ -192,10 +192,10 @@ div.desc {
 */
 
 .collapsible {
-  background-color: #777;
+  background-color: transparent;
   color: white;
   cursor: pointer;
-  padding: 18px;
+  padding: 10px;
   width: 100%;
   border: none;
   text-align: left;
@@ -204,7 +204,7 @@ div.desc {
 }
 
 .active-drop, .collapsible:hover {
-  background-color: #555;
+  background-color: #dcd;
 }
 
 .dropdown {
