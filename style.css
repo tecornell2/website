@@ -212,9 +212,8 @@ body {
 }
 
 header, #content, footer { 
-  background: rgba(0,0,0,.4);
-  padding:25px;
-  color:#0f110c; 
+  background:rgba(0,0,255,0.3);
+  padding:25px; 
 }
 
 iframe {
