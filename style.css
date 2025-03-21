@@ -86,6 +86,34 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;  
 }
+/**
+ * Columns 
+ */
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.column.side {
+  width: 30%;
+}
+.column.middle {
+  width: 60%;
+}
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout */
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
 
 /**
  * Layout styles
