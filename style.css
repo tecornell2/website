@@ -208,13 +208,13 @@ body {
   max-width:800px;
   margin:25px auto;
 }
-/*
+
 header, #content, footer { 
-  background: rgba(0,0,0,.8); 
+  /* background: rgba(0,0,0,.8); */
   padding:25px;
-  color:#303030; 
+  color:#faf9f6; 
 }
-*/
+
 iframe {
   max-width:100%;
 }
