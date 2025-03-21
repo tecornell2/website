@@ -211,8 +211,7 @@ body {
   margin:25px auto;
 }
 
-header, #content, footer { 
-  background: rgb(217, 207, 193, 0.4);
+header, #content, footer {
   padding:25px; 
 }
 
