@@ -210,9 +210,9 @@ body {
 }
 
 header, #content, footer { 
-  /* background: rgba(0,0,0,.8); */
+  background: rgba(0,0,0,.5);
   padding:25px;
-  color:#faf9f6; 
+  color:#386641; 
 }
 
 iframe {
