@@ -11,7 +11,7 @@ body {
   line-height: 1.2;
   font-weight: 400;
   font-family: Inter, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #FFFFFF;
+  color: #303030;
 }
 
 /**
@@ -93,6 +93,16 @@ blockquote p:last-child {
 hr.solid {
   border-top: 1px solid #777;
 }
+
+.label {
+  color: white;
+  padding: 5px;
+}
+.green {background-color: #04AA6D;} /* Green */
+.blue {background-color: #2196F3;} /* Blue */
+.orange {background-color: #ff9800;} /* Orange */
+.red {background-color: #f44336;} /* Red */ 
+.gray {background-color: #e7e7e7; color: black;} /* Gray */ 
 
 /**
  * Columns 
@@ -184,11 +194,14 @@ html { background-color: #faf9f6;
 }
 */
 
-/* Full size background image */
+/* Full size background image
+
+background:url(frog2.jpg) center center no-repeat fixed;
+*/
 
 html, #container, .inner { background-color:transparent;}
 html {
-  background:url(frog2.jpg) center center no-repeat fixed;
+  background-color: #faf9f6;
   background-size:cover;
 }
 body {
@@ -198,7 +211,7 @@ body {
 header, #content, footer { 
   background: rgba(0,0,0,.8); 
   padding:25px;
-  color:#FFFFFF; 
+  color:#303030; 
 }
 iframe {
   max-width:100%;
@@ -221,10 +234,10 @@ ul.main-menu li a {
   color:#cfd2da;
 }
 ul.main-menu li a:hover {
-  color:#FFFFFF;
+  color:#303030;
 }
 ul.main-menu li a.active {
-  color:#FFFFFF;
+  color:#303030;
   border-bottom-color:#38761d;
 }
 
