@@ -212,7 +212,7 @@ body {
 }
 
 header, #content, footer { 
-  background:rgba(0,0,255,0.3);
+  background:rgb(217, 207, 193);
   padding:25px; 
 }
 
