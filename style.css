@@ -88,6 +88,13 @@ blockquote p:last-child {
 }
 
 /**
+ * Misc
+ */
+hr.solid {
+  border-top: 1px solid #777;
+}
+
+/**
  * Columns 
  */
 .column {
