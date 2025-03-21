@@ -207,7 +207,7 @@ div.desc {
   background-color: #555;
 }
 
-.content {
+.dropdown {
   padding: 0 10px;
   display: none;
   overflow: hidden;
