@@ -292,7 +292,7 @@ div.desc {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 12.5px;
+  font-size: 13px;
 }
 
 .active-drop, .collapsible:hover {
@@ -355,7 +355,7 @@ ul.main-menu {
 ul.main-menu li a {
   margin-right:20px;
   font-size: 1.25rem;
-  border-bottom: solid transparent 3px;
+  border-bottom: solid transparent 4px;
   color:#0f110c;
 }
 ul.main-menu li a:hover {
