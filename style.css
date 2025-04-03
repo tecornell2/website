@@ -101,6 +101,35 @@ img {
   height: auto;
 }
 
+/* Social Media Icons */
+.fa {
+  padding: 10px;
+  font-size: 12px;
+  width: 10px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-github {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-orcid {
+  background: #3B5998;
+  color: white;
+}
+
 /**
  ***** COLUMNS *****
  */
