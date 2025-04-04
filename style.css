@@ -263,7 +263,7 @@ ul.main-menu {
 }
 ul.main-menu li a {
   margin-right:20px;
-  font-size: 1.25rem;
+  font-size:1.25rem;
   border-bottom: solid transparent 3px;
   color:#0f110c;
 }
@@ -272,7 +272,7 @@ ul.main-menu li a:hover {
 }
 ul.main-menu li a.active {
   color:#303030;
-  border-bottom-color:#38761d‎;
+  border-bottom-color:#ef6d3d‎;
 }
 
 /* Utility classes */
