@@ -156,6 +156,7 @@ div.gallery img {
 }
 
 div.desc {
+  font-size: 1.4rem;
   padding: 15px;
   text-align: center;
 }
