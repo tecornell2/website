@@ -222,6 +222,15 @@ div.desc {
  */
 
 
+/* list items
+  li {
+    margin-bottom: 12px;
+  }
+  /* Optional: remove space after the very last item */
+  li:last-child {
+    margin-bottom: 0;
+  }
+
 
 /* Background color 
 
