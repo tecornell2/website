@@ -203,7 +203,7 @@ div.desc {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 .active-drop, .collapsible:hover {
