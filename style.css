@@ -206,6 +206,7 @@ div.desc {
 */
 
 .collapsible {
+  cursor: pointer;
   background-color: transparent;
   padding: 10px;
   width: 100%;
