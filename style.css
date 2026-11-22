@@ -17,6 +17,7 @@ body {
 
 /* Links */
 a {
+  cursor: url('click.ani'), auto;	
   font-weight: normal;
   text-decoration: none; 
   color:#38761d;
