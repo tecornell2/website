@@ -49,12 +49,15 @@ h4 { font-size: 1.8rem; line-height: 1.5;  letter-spacing: -.05rem; } /* h4 diff
 h5 { font-size: 2.0rem; line-height: 1.6;  letter-spacing: 0; }
 h6 { font-size: 1.6rem; line-height: 1.6;  letter-spacing: 0; }
 
-/* Google Font Heading Orbiter */
+/* Google Font Heading Tiny5 */
 
 h0 {
-    font-family: "TASA Orbiter", sans-serif;
+    font-size: 3.6rem;
+    line-height: 1.25;
+    font-family: "Tiny5 Duo", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 700;
+    font-weight: 400;
+    font-style: normal;
     }
 
 /* Paragraphs */
