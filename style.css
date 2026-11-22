@@ -17,7 +17,7 @@ body {
 
 /* Links */
 a {
-  cursor: url('click.ani'), auto;	
+  cursor: url("click.ani"), auto;	
   font-weight: normal;
   text-decoration: none; 
   color:#38761d;
@@ -160,6 +160,7 @@ div.gallery {
 }
 
 div.gallery:hover {
+  cursor: url("click.ani"), auto;	
   border: 1px solid #777;
 }
 
@@ -209,7 +210,7 @@ div.desc {
 
 .collapsible {
   background-color: transparent;
-  cursor: pointer;
+  cursor: url("click.ani"), auto;	
   padding: 10px;
   width: 100%;
   border: none;
