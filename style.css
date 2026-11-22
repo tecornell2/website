@@ -294,4 +294,9 @@ ul.main-menu li a.active {
   display:block;
 }
 
-
+/* Dark mode */
+.dark-mode {
+    --background-color: #181818;
+    --text-color: #ffffff;
+    --header-background-color: #242424;
+}
