@@ -2,12 +2,6 @@
  ***** TYPOGRAPHY AND TEXT *****
  */
 
-/* Google font 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=TASA+Orbiter:wght@400..800&display=swap');
-</style>
- */
-
 /* html is set to 62.5% so that all the REM measurements are based on 10px sizing. So basically 1.5rem = 15px */
 html {
   font-size: 62.5%;
@@ -298,11 +292,4 @@ ul.main-menu li a.active {
 }
 .show {
   display:block;
-}
-
-/* Dark mode */
-.dark-mode {
-    --background-color: #181818;
-    --text-color: #ffffff;
-    --header-background-color: #242424;
 }
