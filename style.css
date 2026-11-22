@@ -2,10 +2,11 @@
  ***** TYPOGRAPHY AND TEXT *****
  */
 
-/* Google font */
+/* Google font 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=TASA+Orbiter:wght@400..800&display=swap');
 </style>
+ */
 
 /* html is set to 62.5% so that all the REM measurements are based on 10px sizing. So basically 1.5rem = 15px */
 html {
